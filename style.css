@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+}
+
+.header {
+    font-size: 20px;
+    padding: 100px 300px;
+    text-align: center;
+    background-image: url(images/donation3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: aliceblue;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+button {
+    background-image: linear-gradient(red, orange);
+    font-size: large;
+    padding: 15px 25px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    color: white;
+    border-radius: 15px;
+}
+
+.donate-today {
+    text-align: center;
+    padding: 50px 350px;
+
+}
+
+.amount {
+    text-decoration: navajowhite;
+    padding: 30px;
+    margin-left: 30px;
+    font-size: 50px;
+
+}
+
+#others-amount {
+    width: 43%;
+    padding-left: 220px;
+    border: none;
+    border-bottom: 2px solid gray;
+}
+
+.donate-plan {
+    text-align: center;
+
+}
+
+.flexibility {
+    display: flex;
+    margin: 100px;
+
+}
+
+#food {
+    background-color: cadetblue;
+    margin-right: 10px;
+    margin-left: 100px;
+    border-radius: 10px;
+    width: 60%;
+
+}
+
+#medicine {
+    background-color: gray;
+    margin-right: 10px;
+    border-radius: 10px;
+    width: 60%;
+}
+
+#clothes {
+    background-color: burlywood;
+    border-radius: 10px;
+}
+
+.icon {
+    width: 30%;
+}
+
+input {
+    padding: 17px;
+    background-color: hotpink;
+
+}
+
+.email-box {
+    background-color: coral;
+    margin: 80px 300px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#humble {
+    color: crimson;
+}
